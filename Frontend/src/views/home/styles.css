@@ -1,0 +1,27 @@
+.container-sm {
+  padding-top: 110px !important;
+}
+
+.blog-main-title {
+  display: flex;
+  font-size: 3rem;
+  font-weight: bold;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  color: #00d66f;
+}
+
+.blog-navbar-add-button {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 150px;
+  height: 80px;
+  text-decoration: none;
+  
+}
+.blog-navbar-add-button:hover{
+  transform: scale(1.1);
+  transition: 120ms;
+
+}
